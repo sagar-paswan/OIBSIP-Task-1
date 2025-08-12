@@ -1,4 +1,5 @@
 # Voice Assistant 🗣️💻
+![Voice Assistant Screenshot](screenshot.jpg)
 
 A Python-based voice assistant that can recognize speech, process commands, and respond with voice output.
 
